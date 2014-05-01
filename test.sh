@@ -23,7 +23,6 @@ do
   
   if [ "$var1" != "$var2" ]
   then
-  echo "TEST"
   exit 1;
   fi
   
