@@ -24,7 +24,7 @@ do
   if [ "$var1" != "$var2" ]
   then
   echo "TEST"
-  return 1;
+  exit 1;
   fi
   
   # take action on each file. $f store current file name
