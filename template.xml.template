@@ -1,0 +1,8 @@
+<ROM>
+<other-info>
+<xda-thread>THREAD_INFO</xda-thread>
+<author>AUTHOR_NAME</author>
+</other-info>
+<rom><name>Version 1</name><download>DOWNLOAD_LINK_1</download><changelog>CHANGELOG_1</changelog></rom>
+<rom><name>Version 2</name><download>DOWNLOAD_LINK_2</download><changelog>CHANGELOG_2</changelog></rom>
+</ROM>
