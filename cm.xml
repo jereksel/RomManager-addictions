@@ -5,5 +5,5 @@
 </other-info>
 <rom><name>30/04</name><download>http://d-h.st/EMU</download><changelog>CM sources update&#xA;Tweaked Dalvik VM values&#xA;NovaThor Settings v1.3.5</changelog></rom>
 <rom><name>25/04</name><download>http://d-h.st/AI8</download><changelog>CM sources update&#xA;Fix wrong voltage showing&#xA;NovaThor Settings v1.3</changelog></rom>
-<rom><name>22/04</name><download>http://d-h.st/hAI</download><changelog>CM sources update&#xA;Cleaned kernel&#xA;Fixed Mali autoboost problems&#xA;-NovaThor Settings v1.2&#xA;Google location service fixed (maybe)</changelog></rom>
+<rom><name>22/04</name><download>http://d-h.st/hAI</download><changelog>CM sources update&#xA;Cleaned kernel&#xA;Fixed Mali autoboost problems&#xA;NovaThor Settings v1.2&#xA;Google location service fixed (maybe)</changelog></rom>
 </ROM>
