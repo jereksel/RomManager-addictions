@@ -3,9 +3,7 @@
 <xda-thread>http://forum.xda-developers.com/showthread.php?t=2555021</xda-thread>
 <author>Rox</author>
 </other-info>
-<rom><name>25/04</name><download>http://d-h.st/AI8</download></rom>
-<rom><name>22/04</name><download>http://d-h.st/hAI</download></rom>
-<rom><name>18/04</name><download>http://d-h.st/qMz</download></rom>
-<rom><name>16/04</name><download>http://d-h.st/Efx</download></rom>
-<rom><name>11/04</name><download>http://d-h.st/sWi</download></rom>
+<rom><name>30/04</name><download>http://d-h.st/EMU</download><changelog>CM sources update\nTweaked Dalvik VM values\nNovaThor Settings v1.3.5</changelog></rom>
+<rom><name>25/04</name><download>http://d-h.st/AI8</download><changelog>CM sources update\n-Fix wrong voltage showing\nNovaThor Settings v1.3</changelog></rom>
+<rom><name>22/04</name><download>http://d-h.st/hAI</download><changelog>CM sources update\n-Cleaned kernel\n-Fixed Mali autoboost problems\n-NovaThor Settings v1.2\n-Google location service fixed (maybe)</changelog></rom>
 </ROM>
