@@ -1,0 +1,4 @@
+before_install:
+  - sudo apt-get install mkd5sum tar
+  - chmod +x pack.sh
+  - ./pack.sh
