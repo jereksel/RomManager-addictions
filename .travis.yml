@@ -1,8 +1,6 @@
 before_install:
   - sudo apt-get install tar
-  - chmod +x pack.sh
   - chmod +x test.sh
-  - ./pack.sh
 
 script:
   - ./test.sh
